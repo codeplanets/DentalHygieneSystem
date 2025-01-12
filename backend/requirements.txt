@@ -1,0 +1,4 @@
+Flask==2.0.1
+opencv-python==4.5.3.20210927
+openai==0.11.0  # OpenAI API 클라이언트 추가
+requests==2.26.0
